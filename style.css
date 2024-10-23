@@ -50,7 +50,7 @@ body{
  }
  .container .gallery li:hover{
 
-    transform: rotate(35deg) scale(1.1);
+    transform:scale(1.9);
 
  }
  .container .gallery li img{
@@ -98,8 +98,7 @@ border-radius: 10px;
 
 
  .container .imgbox img:hover{
-        transform: scale(1.25) rotate(-15deg) translateX(-30px);
-    
+        transform: scale(2) ;    
      }
 
 
